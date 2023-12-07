@@ -1,6 +1,6 @@
 # PDF Scraper
 
-![PDF Scraper Logo](https://example.com/your-logo.png)
+
 
 PDF Scraper is a versatile Python script for crawling websites, discovering PDF links, and downloading them. It offers options to use user agents and proxies for enhanced scraping capabilities.
 
